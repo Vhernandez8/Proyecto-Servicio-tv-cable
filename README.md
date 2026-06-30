@@ -1,0 +1,27 @@
+Proyecto realizado con html 5 y netbeans Este proyecto es un sitio web con el objetivo de entregar información sobre los planes de tv digital capta vision
+
+Para la ejecución puede usar:
+
+La ruta de ejecucion del sitio web: \Public html\captavision.html
+
+Cómo utilizar este proyecto: vistas: Este proyecto realizado es realizado en netbeans, las vistas se pueden ver en las siguientes rutas:
+
+\Public html\captavision.html
+
+\Public html\contactanos\public_html\contactanos.html
+
+\Public html\contratar\public_html\contratar.html
+
+\Public html\solicitud\public_html\solicitud.html
+   
+
+Rutas estilo visual css:
+
+\Public html\csscaptavision.css
+
+\Public html\contactanos\public_html\csscontactanos.css
+
+\Public html\contratar\public_html\csscontratar.css
+
+\Public html\solicitud\public_html\csssolicitud.css
+
