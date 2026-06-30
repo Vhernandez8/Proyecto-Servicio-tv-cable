@@ -4,7 +4,7 @@ Para la ejecución puede usar:
 
 La ruta de ejecucion del sitio web: \Public html\captavision.html
 
-Cómo utilizar este proyecto: vistas: Este proyecto realizado es realizado en netbeans, 1 descargar el proyecto completo y descomprimir, las vistas se pueden ver en las siguientes rutas:
+Cómo utilizar este proyecto: vistas: Este proyecto realizado es realizado en netbeans, 1 - Descargar el proyecto completo y descomprimir, las vistas se pueden ver en las siguientes rutas:
 
 \Public html\captavision.html
 
