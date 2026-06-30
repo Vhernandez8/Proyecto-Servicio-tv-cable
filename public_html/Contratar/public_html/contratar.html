@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+    <div><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"></div>
+     <div><link href="csscontratar.css" rel="stylesheet" type="text/css"></div>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Contratar</title>
+     <h1>Capta Vision Satelital</h1>
+     <img src="tvsatelital.png">
+  <nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+    </div>
+      </div>
+    <ul class="nav navbar-nav">
+    <li class="active"><a href="http://localhost:8383/Servicio%20tv%20cable/captavision.html">Inicio</a></li>
+      <li><a href="http://localhost:8383/Contratar/contratar.html">Contratar</a></li>
+      <li><a href="http://localhost:8383/contactanos/contactanos.html">Contactanos</a></li>
+      </ul>
+      </div>
+      </nav>
+    
+<article>
+       
+    <h2><b>¡HOLA!</b></h2>
+    <br>
+    <p>¿Necesitas ayuda con la compra de tus servicios en línea? Llena el formulario, te contactaremos y guiaremos en tu compra.
+        ¡Recuerda que en Capta vision satelital recibirás la mejor calidad y sin costo de instalacion!</p>
+    <br>
+    <br>
+</article>
+     <body>
+      
+         <br>
+         <br>
+         <br>
+         
+        <h2>Nuestros Planes</h2>
+         <br>
+         <br>
+         <br>
+         <div class="container">
+  <table class="table">
+   <tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Plan</td>
+        <td>Canales incluidos</td>
+        <td>valor</td>
+      </tr>      
+      <tr class="success">
+        <td>1 Basico</td>
+        <td>156 Canales</td>
+        <td>$24.990 Mensuales</td>
+      </tr>
+      <tr class="danger">
+        <td>2 Medio</td>
+        <td>199 Canales</td>
+        <td>$27.990 Mensuales</td>
+      </tr>
+      <tr class="info">
+        <td>3 Avanzado</td>
+        <td>200 Canales</td>
+        <td>$30.990 Mensuales</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+         
+         <form>      
+         <h2>Formulario para Contratar</h2>
+        
+         
+         <br>
+     
+        
+    <div><table align="center" Table BORDER="4" CELLSPACING="2"
+WIDTH="100" size="50">
+    
+   <tr>
+      <td>Nombre</td>
+      <td><input id="nombre"type="text" maxlength="50" size="50" required placeholder="Ingrese su Nombre Completo"></td>
+  </tr>
+  <tr>
+   <td>Rut</td>
+  <td><input id="rut"type="text" maxlength="12" size="50" required placeholder="Ingrese su Rut"></td>
+  </tr>
+  <tr>
+   <td>Direccion</td>
+  <td><input id="Direccion"type="text" maxlength="20" size="50" required placeholder="Ingrese su Direccion"></td>
+  </tr>
+  <tr>
+      <td>Numero de contacto</td>
+      <td><input id="number"type="text" maxlength="10" size="50" required placeholder="Ingrese su Numero"></td>
+  </tr>
+  <tr>
+      <td>Correo</td>
+      <td><input id="number"type="email" maxlength="30" size="50" required placeholder="Ingrese su correo"></td>
+  </tr>
+  <tr>
+  <td>Seleccionar Region</td>
+  <td><select name="Seleccionar Region">
+    <option value="1">Seleccionar Region</option>     
+    <option value="1">I Region arica y parinacota</option>
+    <option value="2">II Region antofagasta </option>
+    <option value="3">III Region atacama</option>
+    <option value="4">IV Region coquimbo</option>
+    <option value="5">V region valparaiso</option>
+    <option value="6">VI region lib general b ohiggins</option>
+    <option value="7">VII Región del Maule</option>
+    <option value="8">VIII Región del Biobío</option>
+    <option value="8">IX Región de La Araucanía</option>
+    <option value="9">X Región de Los Lagos</option>
+    <option value="10">XI Región Aysén del General Carlos Ibáñez del Campo</option>
+    <option value="11">XII Región de Magallanes y Antártica Chilena</option>
+    <option value="12">Región Metropolitana de Santiago</option>
+    <option value="13">XIV Región de Los Ríos</option>
+    <option value="14">XV Región de Arica y Parinacota</option>
+    <option value="15">XVI Región de Ñuble</option></td>
+  </tr>
+  <tr>
+  <td>Seleccione plan</td>
+  <td><select name="Seleccionar plan">
+    <option value="1">Seleccionar plan</option>     
+    <option value="1">1 basico $24.990</option>
+    <option value="2">2 medio $27.990</option>
+    <option value="3">3 avanzado $30.990</option>
+    </td>
+    <tr>
+  <td>Fecha de instalacion</td>
+  <td><input id="date" type="date" min="2020-10-12"  max="2020-12-31" value="2020-10-12" size="50"></td>
+  </tr>
+  <tr>
+  <td>Hora de Instalacion</td>
+  <td><input id="time" type="time" min="09:00" max="18:00" value="09:00" required size="50"></td>
+  </tr>
+  <tr>
+  <td>Seleccione un Medio de Pago</td>
+  <td><br>Efectivo<input type="radio" name="camporadio id=1" value="1"
+  <td><br>Tarjetas de Debito<input type="radio" name="camporadio id=1" value="2"
+  <td><br>Tarjetas de credito<input type="radio" name="camporadio id=1" value="3"
+  <td><br>Transferencia Bancaria<input type="radio" name="camporadio id=1" value="4"
+  <br>
+  <br>
+  <br>
+  <a href="http://localhost:8383/solicitud/solicitud.html"><button type="submit" class="btn btn-primary btn-lg btn-block">Enviar Solicitud</button>
+      </tr>
+  
+  </table></div>
+  </form>
+</head>
+    </body>
+</html>

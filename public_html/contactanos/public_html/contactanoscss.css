@@ -1,0 +1,88 @@
+h1 {
+    text-align:center;
+    color:dodgerblue;
+    background-color:black;
+    font-size:50px;
+    font-style: italic;
+    margin:0px;
+    padding:30px;
+    height:120px;
+    margin-top:0px;
+    margin-bottom:0px;
+    
+}
+
+img {
+    margin:310px;
+    margin-top:-110px;
+    padding:autopx;
+    height:110px;
+   
+}
+
+nav {
+     margin:-2px;
+     margin-top:-308px;
+     padding:autopx;
+     height:autopx;
+}
+
+h2 {
+    text-align:center;
+    color:dodgerblue;
+    background-color:black;
+    font-size:40px;
+    font-style: italic;
+    margin:0px;
+    padding:20px;
+    height:80px;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+p {
+    text-align:center;
+    color:dodgerblue;
+    color:black;
+    font-size:30px;
+    font-style: italic;
+    margin:0px;
+    padding:20px;
+    height:80px;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+body {
+     background-color:#87CEFA;
+     }
+ 
+h3 {
+    text-align:center;
+    color:dodgerblue;
+    background-color:black;
+    font-size:40px;
+    font-style: italic;
+    margin:0px;
+    padding:20px;
+    height:80px;
+    margin-top:20px;
+    margin-bottom:5px;
+    }
+    
+td {
+    text-align:left;
+    color:dodgerblue;
+    background-color:black;
+    font-size:20px;
+    font-style: italic;
+    margin:80px;
+    padding:20px;
+    height:50px;
+    margin-top:20px;
+    margin-bottom:5px;
+    }
+    
+    button {
+    align-content: center;
+     }
