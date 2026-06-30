@@ -1,4 +1,4 @@
-Proyecto realizado con html 5 y netbeans Este proyecto es un sitio web con el objetivo de entregar información sobre los planes de tv digital capta vision
+Proyecto realizado con html 5 y css en netbeans Este proyecto es un sitio web con el objetivo de entregar información sobre los planes de tv digital capta vision
 
 Para la ejecución puede usar:
 
