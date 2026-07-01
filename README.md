@@ -27,6 +27,12 @@ Rutas estilo visual css:
 
 Demostracion del Proyecto:
 
-<video src ="https://github.com/user-attachments/assets/a310abee-da05-4095-877e-44f156514afd" width="600" controls><video>
+<video src ="https://github.com/user-attachments/assets/6a49ffdc-3ed1-49ca-8f44-14234a8011f4" controls><video>
+
+
+
+
+
+
 
 
