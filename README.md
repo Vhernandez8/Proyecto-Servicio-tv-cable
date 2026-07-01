@@ -25,8 +25,8 @@ Rutas estilo visual css:
 
 \Public html\solicitud\public_html\csssolicitud.css
 
+Demostracion del Proyecto:
+
 <video src ="https://github.com/user-attachments/assets/a310abee-da05-4095-877e-44f156514afd" width="600" controls><video>
 
-
-https://github.com/user-attachments/assets/a310abee-da05-4095-877e-44f156514afd
 
